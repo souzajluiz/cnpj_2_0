@@ -5,7 +5,7 @@ Brazilian CNPJ validator and verification digit (DV) calculator for PHP.
 ## Installation
 
 ```bash
-composer require souzajluiz/CNPJ_2_0
+composer require souzajluiz/cnpj_2_0
 ```
 
 ## Usage
