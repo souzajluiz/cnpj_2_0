@@ -1,5 +1,5 @@
 {
-    "name": "souzajluiz/CNPJ_2_0",
+    "name": "souzajluiz/cnpj_2_0",
     "description": "Brazilian CNPJ validator and DV calculator for PHP",
     "type": "library",
     "license": "MIT",
